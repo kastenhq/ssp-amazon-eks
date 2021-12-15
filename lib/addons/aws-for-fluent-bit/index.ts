@@ -28,7 +28,7 @@ const defaultProps: AwsForFluentBitAddOnProps = {
 }
 
 /**
- * FluentBitAddOn deploys FluentBit into an EKS cluster using the `aws-for-fluent-bit` Helm chart.
+ * AwsForFluentBitAddOn deploys FluentBit into an EKS cluster using the `aws-for-fluent-bit` Helm chart.
  * https://github.com/aws/eks-charts/tree/master/stable/aws-for-fluent-bit
  */
 export class AwsForFluentBitAddOn extends HelmAddOn {
