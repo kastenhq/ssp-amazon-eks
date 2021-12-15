@@ -1,6 +1,7 @@
 
 export * from './appmesh'
 export * from './argocd'
+export * from './aws-for-fluent-bit'
 export * from './aws-loadbalancer-controller'
 export * from './calico'
 export * from './container-insights'
